@@ -1,0 +1,27 @@
+{
+  "name": "hash-of-stream",
+  "version": "0.0.0",
+  "description": "Given a readable stream, calls a callback with the hash of the data",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/hash-of-stream.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^8.4.0"
+  },
+  "keywords": [
+    "hash",
+    "stream"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/hash-of-stream/issues"
+  },
+  "homepage": "https://github.com/watson/hash-of-stream#readme"
+}
