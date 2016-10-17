@@ -1,6 +1,6 @@
 {
   "name": "hash-of-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Given a readable stream, calls a callback with the hash of the data",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/watson/hash-of-stream/issues"
   },
-  "homepage": "https://github.com/watson/hash-of-stream#readme"
+  "homepage": "https://github.com/watson/hash-of-stream#readme",
+  "coordinates": [
+    52.6479255,
+    -7.197155100000001
+  ]
 }
